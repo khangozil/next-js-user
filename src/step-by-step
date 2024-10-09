@@ -1,0 +1,13 @@
+
+
+create next-js app
+
+create user-management to fetch user data form data base
+
+create database to connect to MongoDB
+
+install mongoose : npm i mongoose
+
+create models folder to store type of database ( String , number ...)
+
+create components to store function like add new
